@@ -1,8 +1,29 @@
 title:NAUALLI
 description:NAUALLI curated rolls
 
-// Royal Chase - ROYAL CHASE (god-pvp,god-pve)
-//notes: tags:god-pvp,god-pve
+// Taraxippos (god-pvp,controller)
+//notes: tags:god-pvp,controller
+dimwishlist:item=1389546626&perks=839105230,3142289711,1168162263,1015611457
+
+
+// Taraxippos - Alt1 (god-pvp,controller)
+//notes: tags:god-pvp,controller
+dimwishlist:item=1389546626&perks=839105230,3142289711,588594999,1015611457
+
+
+// Royal Chase (god-pve,god-pvp,controller,pve,pvp)
+//notes: tags:god-pve,god-pvp,controller,pve,pvp
 dimwishlist:item=2776503072&perks=839105230,3230963543,3300816228,2848615171,905869860
 dimwishlist:item=2776503072&perks=839105230,3230963543,3300816228,2848615171,3244015567
+
+
+// Royal Chase (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=2776503072&perks=839105230,3230963543,3300816228,2848615171
+
+
+// Royal Chase (god-pvp)
+//notes: tags:god-pvp
+dimwishlist:item=2776503072&perks=839105230,3230963543,3300816228,2848615171
+
 
