@@ -11,6 +11,12 @@ dimwishlist:item=1389546626&perks=839105230,3142289711,1168162263,1015611457
 dimwishlist:item=1389546626&perks=839105230,3142289711,588594999,1015611457
 
 
+// Taraxippos (controller,god-pve)
+//notes: tags:controller,god-pve
+dimwishlist:item=1389546626&perks=839105230,106909392,1168162263,3038247973
+dimwishlist:item=1389546626&perks=839105230,106909392,1354429876,3038247973
+
+
 // Royal Chase (god-pve,god-pvp,controller,pve,pvp)
 //notes: tags:god-pve,god-pvp,controller,pve,pvp
 dimwishlist:item=2776503072&perks=839105230,3230963543,3300816228,2848615171,905869860
