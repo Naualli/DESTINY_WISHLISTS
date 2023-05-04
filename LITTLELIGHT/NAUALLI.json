@@ -145,6 +145,31 @@
                 "Controller",
                 "GodPVE"
             ]
+        },
+        {
+            "description": "",
+            "hash": 2060863616,
+            "name": "",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    3301904089
+                ],
+                [
+                    2010801679
+                ],
+                [
+                    2396489472
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "GodPVP",
+                "Controller",
+                "Mouse"
+            ]
         }
     ]
 }
