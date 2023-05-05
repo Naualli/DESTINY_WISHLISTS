@@ -102,7 +102,7 @@
             ]
         },
         {
-            "description": "",
+            "description": "NAUALLI PVE",
             "hash": 1389546626,
             "name": "NAUALLI PVE",
             "plugs": [
@@ -130,7 +130,7 @@
             ]
         },
         {
-            "description": "",
+            "description": "NAUALLI PVP",
             "hash": 1389546626,
             "name": "NAUALLI PVP",
             "plugs": [
@@ -155,6 +155,58 @@
                 "GodPVP",
                 "Mouse",
                 "Controller"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3654674561,
+            "name": "THEORY GOD ROLL",
+            "plugs": [
+                [
+                    1392496348
+                ],
+                [
+                    3230963543
+                ],
+                [
+                    1546637391
+                ],
+                [
+                    3465198467
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "GodPVP",
+                "Mouse",
+                "Controller"
+            ]
+        },
+        {
+            "description": "CURATED ROLL",
+            "hash": 1389546626,
+            "name": "CURATED ROLL",
+            "plugs": [
+                [
+                    1392496348,
+                    1840239774
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    2387244414
+                ],
+                [
+                    1015611457,
+                    3038247973
+                ]
+            ],
+            "tags": [
+                "Mouse",
+                "Controller",
+                "PVE",
+                "PVP"
             ]
         }
     ]
