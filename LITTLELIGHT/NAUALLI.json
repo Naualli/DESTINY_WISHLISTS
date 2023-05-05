@@ -3,9 +3,9 @@
     "name": "NAUALLI",
     "data": [
         {
-            "description": "",
+            "description": "[NAUALLI] GOD PVE",
             "hash": 2776503072,
-            "name": "",
+            "name": "[NAUALLI] GOD PVE",
             "plugs": [
                 [
                     839105230
@@ -25,9 +25,9 @@
             ]
         },
         {
-            "description": "",
+            "description": "[NAUALLI] GOD PVP",
             "hash": 2776503072,
-            "name": "",
+            "name": "[NAUALLI] GOD PVP",
             "plugs": [
                 [
                     839105230
@@ -47,9 +47,9 @@
             ]
         },
         {
-            "description": "",
+            "description": "[NAUALLI] GOD PVEP",
             "hash": 2776503072,
-            "name": "",
+            "name": "[NAUALLI] GOD PVEP",
             "plugs": [
                 [
                     839105230
@@ -102,9 +102,9 @@
             ]
         },
         {
-            "description": "NAUALLI PVE",
+            "description": "[NAUALLI] GOD PVE",
             "hash": 1389546626,
-            "name": "NAUALLI PVE",
+            "name": "[NAUALLI] GOD PVE",
             "plugs": [
                 [
                     3250034553,
@@ -130,9 +130,9 @@
             ]
         },
         {
-            "description": "NAUALLI PVP",
+            "description": "[NAUALLI] GOD PVP",
             "hash": 1389546626,
-            "name": "NAUALLI PVP",
+            "name": "[NAUALLI] GOD PVP",
             "plugs": [
                 [
                     3250034553,
@@ -158,9 +158,9 @@
             ]
         },
         {
-            "description": "",
+            "description": "[NAUALLI] THEORY GOD ROLL",
             "hash": 3654674561,
-            "name": "THEORY GOD ROLL",
+            "name": "[NAUALLI] THEORY GOD ROLL",
             "plugs": [
                 [
                     1392496348
@@ -183,9 +183,9 @@
             ]
         },
         {
-            "description": "CURATED ROLL",
+            "description": "[NAUALLI] CURATED ROLL",
             "hash": 1389546626,
-            "name": "CURATED ROLL",
+            "name": "[NAUALLI] CURATED ROLL",
             "plugs": [
                 [
                     1392496348,
