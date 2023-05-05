@@ -208,6 +208,31 @@
                 "PVE",
                 "PVP"
             ]
+        },
+        {
+            "description": "[NAUALLI] GOD PVEP",
+            "hash": 1331482397,
+            "name": "[NAUALLI] GOD PVEP",
+            "plugs": [
+                [
+                    4090651448
+                ],
+                [
+                    1561002382
+                ],
+                [
+                    3100590152
+                ],
+                [
+                    990298390
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "GodPVP",
+                "Mouse",
+                "Controller"
+            ]
         }
     ]
 }

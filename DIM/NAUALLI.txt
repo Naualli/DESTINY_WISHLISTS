@@ -1,6 +1,11 @@
 title:NAUALLI
 description:NAUALLI curated rolls
 
+// MIDA Multi-Tool - [NAUALLI] GOD PVEP (god-pve,god-pvp,mnk,controller)
+//notes: [NAUALLI] GOD PVEP tags:god-pve,god-pvp,mnk,controller
+dimwishlist:item=1331482397&perks=4090651448,1561002382,3100590152,990298390
+
+
 // Taraxippos - [NAUALLI] GOD PVE (god-pve,mnk,controller)
 //notes: [NAUALLI] GOD PVE tags:god-pve,mnk,controller
 dimwishlist:item=1389546626&perks=3250034553,3142289711,1168162263,3038247973
