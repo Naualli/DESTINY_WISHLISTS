@@ -3,7 +3,13 @@ description:NAUALLI curated rolls
 
 // The Title - [NAUALLI] GOD PVP (god-pvp,mnk,controller)
 //notes: [NAUALLI] GOD PVP tags:god-pvp,mnk,controller
-dimwishlist:item=294129361&perks=1392496348,679225683,1359896290,2896038713
+dimwishlist:item=3559361670&perks=1392496348,679225683,1359896290,2896038713
+dimwishlist:item=3559361670&perks=1482024992,679225683,1359896290,2896038713
+
+
+// The Title - [NAUALLI] GOD PVE (god-pve,mnk,controller)
+//notes: [NAUALLI] GOD PVE tags:god-pve,mnk,controller
+dimwishlist:item=3559361670&perks=1840239774,3230963543,4071163871,3708227201
 
 
 // MIDA Multi-Tool - [NAUALLI] GOD PVEP (god-pve,god-pvp,mnk,controller)

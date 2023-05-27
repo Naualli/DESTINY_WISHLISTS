@@ -201,11 +201,12 @@
         },
         {
             "description": "[NAUALLI] GOD PVP",
-            "hash": 294129361,
+            "hash": 3559361670,
             "name": "[NAUALLI] GOD PVP",
             "plugs": [
                 [
-                    1392496348
+                    1392496348,
+                    1482024992
                 ],
                 [
                     679225683
@@ -219,6 +220,30 @@
             ],
             "tags": [
                 "GodPVP",
+                "Mouse",
+                "Controller"
+            ]
+        },
+        {
+            "description": "[NAUALLI] GOD PVE",
+            "hash": 3559361670,
+            "name": "[NAUALLI] GOD PVE",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    3230963543
+                ],
+                [
+                    4071163871
+                ],
+                [
+                    3708227201
+                ]
+            ],
+            "tags": [
+                "GodPVE",
                 "Mouse",
                 "Controller"
             ]
