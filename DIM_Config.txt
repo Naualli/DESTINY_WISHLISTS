@@ -1,1 +1,22 @@
-https://raw.githubusercontent.com/Naualli/DESTINY_WISHLISTS/main/DIM/NAUALLI.txt|https://raw.githubusercontent.com/Naualli/DESTINY_WISHLISTS/main/DIM/littlelight-adhere-controller.txt|https://raw.githubusercontent.com/Naualli/DESTINY_WISHLISTS/main/DIM/littlelight-big-bird-mnk.txt|https://raw.githubusercontent.com/Naualli/DESTINY_WISHLISTS/main/DIM/littlelight-just-another-team-mnk.txt|https://raw.githubusercontent.com/Naualli/DESTINY_WISHLISTS/main/DIM/littlelight-pandapaxxy-controller.txt|https://raw.githubusercontent.com/Naualli/DESTINY_WISHLISTS/main/DIM/littlelight-pandapaxxy-mnk.txt|https://raw.githubusercontent.com/Naualli/DESTINY_WISHLISTS/main/DIM/littlelight-virpyre-controller-seasons.txt|https://raw.githubusercontent.com/Naualli/DESTINY_WISHLISTS/main/DIM/littlelight-virpyre-mnk-seasons.txt
+ALL
+https://raw.githubusercontent.com/Naualli/DESTINY_WISHLISTS/main/DIM/NAUALLI.txt|https://raw.githubusercontent.com/Naualli/DESTINY_WISHLISTS/main/DIM/littlelight-adhere-controller.txt|https://raw.githubusercontent.com/Naualli/DESTINY_WISHLISTS/main/DIM/littlelight-pandapaxxy-controller.txt|https://raw.githubusercontent.com/Naualli/DESTINY_WISHLISTS/main/DIM/littlelight-virpyre-controller-seasons.txt|https://raw.githubusercontent.com/Naualli/DESTINY_WISHLISTS/main/DIM/littlelight-big-bird-mnk.txt|https://raw.githubusercontent.com/Naualli/DESTINY_WISHLISTS/main/DIM/littlelight-just-another-team-mnk.txt|https://raw.githubusercontent.com/Naualli/DESTINY_WISHLISTS/main/DIM/littlelight-pandapaxxy-mnk.txt|https://raw.githubusercontent.com/Naualli/DESTINY_WISHLISTS/main/DIM/littlelight-virpyre-mnk-seasons.txt
+
+PERSONAL
+https://raw.githubusercontent.com/Naualli/DESTINY_WISHLISTS/main/DIM/NAUALLI.txt|
+
+CONTROLLER (ALL)
+https://raw.githubusercontent.com/Naualli/DESTINY_WISHLISTS/main/DIM/littlelight-adhere-controller.txt|https://raw.githubusercontent.com/Naualli/DESTINY_WISHLISTS/main/DIM/littlelight-pandapaxxy-controller.txt|https://raw.githubusercontent.com/Naualli/DESTINY_WISHLISTS/main/DIM/littlelight-virpyre-controller-seasons.txt|
+
+CONTROLLER (SEPARATED)
+https://raw.githubusercontent.com/Naualli/DESTINY_WISHLISTS/main/DIM/littlelight-adhere-controller.txt
+https://raw.githubusercontent.com/Naualli/DESTINY_WISHLISTS/main/DIM/littlelight-pandapaxxy-controller.txt
+https://raw.githubusercontent.com/Naualli/DESTINY_WISHLISTS/main/DIM/littlelight-virpyre-controller-seasons.txt
+
+MNK (ALL)
+https://raw.githubusercontent.com/Naualli/DESTINY_WISHLISTS/main/DIM/littlelight-big-bird-mnk.txt|https://raw.githubusercontent.com/Naualli/DESTINY_WISHLISTS/main/DIM/littlelight-just-another-team-mnk.txt|https://raw.githubusercontent.com/Naualli/DESTINY_WISHLISTS/main/DIM/littlelight-pandapaxxy-mnk.txt|https://raw.githubusercontent.com/Naualli/DESTINY_WISHLISTS/main/DIM/littlelight-virpyre-mnk-seasons.txt
+
+MNK (SEPARATED)
+https://raw.githubusercontent.com/Naualli/DESTINY_WISHLISTS/main/DIM/littlelight-big-bird-mnk.txt
+https://raw.githubusercontent.com/Naualli/DESTINY_WISHLISTS/main/DIM/littlelight-just-another-team-mnk.txt
+https://raw.githubusercontent.com/Naualli/DESTINY_WISHLISTS/main/DIM/littlelight-pandapaxxy-mnk.txt
+https://raw.githubusercontent.com/Naualli/DESTINY_WISHLISTS/main/DIM/littlelight-virpyre-mnk-seasons.txt
